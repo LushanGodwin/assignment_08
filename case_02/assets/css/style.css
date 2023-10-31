@@ -22,7 +22,7 @@
 
 .line1 {
     position: absolute;
-    top: 320px;
+    top: 360px;
     left: 0;
     right: 0;
     margin: auto;
@@ -34,7 +34,7 @@
 
 .line2 {
     position: absolute;
-    top: 430px;
+    top: 460px;
     left: 0;
     right: 0;
     margin: auto;
@@ -79,12 +79,12 @@
 
 .middle_div > div:nth-child(3) {
 
-    background: lightpink;
+    background: rebeccapurple;
 }
 
 .middle_div > div:nth-child(4) {
 
-    background: plum;
+    background: mediumpurple;
 }
 
 .middle_div > div:nth-child(5) {
